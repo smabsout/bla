@@ -51,5 +51,17 @@ p{
 
     }
 
+    .card{
+        height:50px;
+        background-color:black;
+    }
+    .card-body{
+        background-color:black;
+    }
+
+    .sr-only{
+        color:black;
+    }
+
     
 
