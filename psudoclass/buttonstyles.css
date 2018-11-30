@@ -1,0 +1,47 @@
+/* normal element rule */
+
+a{
+    font-size: 50px;
+    padding: 50px;
+    text-decoration: none;
+    padding: 40px;
+    margin:174px;
+    
+}
+
+/* hover psuedo class */
+
+a:hover{
+    text-decoration: underline;
+    color:red;
+    
+
+}
+
+/* Focus Psuedo Class */
+
+a:focus{
+    border: 3px dotted fuchsia;
+
+}
+
+/* active psuedo class */
+
+a:active{
+    text-decoration: line-through;
+    color:orange;
+}
+
+/* only of type Hover Class */
+
+p:only-of-type{
+    color:green;
+    background-color: magenta;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-top:50px;    
+}
+
+
+
+
